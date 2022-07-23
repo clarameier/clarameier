@@ -2,7 +2,7 @@
 
 [pt](https://github.com/clarameier/clarameier)
 
-My name is Maria Clara, I'm profound deaf and bilateral, not to mention at this moment I study in the University Systems Development Analysis. I'm still at the beginning of learning about programming/languages, and for now I'm learning Java and Python. I've been and I am having contact with HTML and Markdown. Finally, I intend to learn more and more and constantly seek an evolution.
+My name is Maria clara, i have profound and bilateral deafness. I'm currently an undergraduate in System Analysis and Development. I'm stil a beginner at learning about programs. By now, I'm learning Java and Python and having contacts with HTML and Markdown. Therefore, I look forward to learn constantly because I seek evolution in my area.
 
 I'm creating in my GitHub repositories according to what I'm learning in the moment. Click [here](https://github.com/clarameier?tab=repositories) to have acess of my repositories and follow the constant evolution I am acquiring.
 

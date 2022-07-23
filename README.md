@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @clarameier
-- 👀 I’m interested in studying technology 
+- 👀 I’m interested in technology 
 - 🌱 I’m currently learning computer systems analyst in Uniasselvi
 - 📫 How to reach me: Linkedin www.linkedin.com/in/clarameier
